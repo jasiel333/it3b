@@ -10,11 +10,11 @@ require_once __DIR__ . '/../functions/auth.php';
 require_once(__DIR__ . '/../functions/activity.php');
 require_once(__DIR__ . '/../functions/session.php');
 
-define('BASE_URL', 'http://localhost/it34b/');
+define('BASE_URL', 'http://localhost/it3b/');
 
 define('DB_HOST', '127.0.0.1');
 define('DB_PORT', '3307');
-define('DB_NAME', 'it34b');
+define('DB_NAME', 'it3b');
 define('DB_USER', 'root');
 define('DB_PASS', '');
 
